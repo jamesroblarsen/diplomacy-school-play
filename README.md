@@ -4,4 +4,4 @@ An unofficial interactive tutor for the board game Diplomacy: the rules, tactics
 
 **Play:** https://jamesroblarsen.github.io/diplomacy-school-play/
 
-This repo holds only the built site (source commit `27d33b2`). *Diplomacy* is a trademark of its owners; this project is not affiliated with them.
+This repo holds only the built site (source commit `67e9335`). *Diplomacy* is a trademark of its owners; this project is not affiliated with them.
